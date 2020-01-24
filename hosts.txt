@@ -1,0 +1,11 @@
+127.0.0.1   localhost localhost.localdomain localhost4 localhost4.localdomain4
+::1         localhost localhost.localdomain localhost6 localhost6.localdomain6
+
+192.168.43.21	nn.lw.com
+192.168.43.	dn1.lw.com
+192.168.43.	dn2.lw.com
+192.168.43.	dn3.lw.com
+192.168.43.	jt.lw.com
+192.168.43.	tt1.lw.com
+192.168.43.	tt2.lw.com
+192.168.43.	client.lw.com 
